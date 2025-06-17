@@ -1,0 +1,10 @@
+{
+  "name": "bloks",
+  "version": "0.1.0",
+  "description": "A local-first desktop workspace for personal AI agents",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
