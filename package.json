@@ -1,6 +1,6 @@
 {
   "name": "bloks",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "description": "A local-first desktop workspace for personal AI agents",
   "main": "src/index.ts",
   "scripts": {
